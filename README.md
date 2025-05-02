@@ -2,7 +2,7 @@
 
 # This is a repository for all code used in FYP project:
 
-# Preprocessing script: all preprocessing steps, from HALo extraction to exporting clean datasets
+# Preprocessing script: all preprocessing steps, from HALO extraction to exporting clean datasets
 
 # Functions: all functions necessary for calculations in later scripts
 
